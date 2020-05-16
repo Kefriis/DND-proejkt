@@ -1,0 +1,15 @@
+body{
+    margin: 0; 
+}
+
+header {
+    overflow: hidden;
+    background-color: #4C4D4F;
+}
+
+.logo a {
+    font-size: 35px;
+    text-decoration: none;
+    color: #C9DCB3;
+    text-align: center;
+}
