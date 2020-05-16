@@ -7,9 +7,11 @@ header {
     background-color: #4C4D4F;
 }
 
-.logo a {
+.header a {
+    float: left;
     font-size: 35px;
     text-decoration: none;
     color: #C9DCB3;
     text-align: center;
+    padding: 10px; 
 }
