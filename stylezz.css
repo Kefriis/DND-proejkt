@@ -1,7 +1,14 @@
+/*-----------------------------------------------------*/
+/*-------------------Global styles---------------------*/
+/*-----------------------------------------------------*/
 body{
-    margin: 0; 
+    margin: 0;
+    background-image: url(./resources/background_image.jpg);
+    background-repeat: no-repeat;
 }
-
+/*-----------------------------------------------------*/
+/*-------------------header styles---------------------*/
+/*-----------------------------------------------------*/
 header {
     overflow: hidden;
     background-color: #4C4D4F;
@@ -13,7 +20,7 @@ header {
     text-decoration: none;
     color: #C9DCB3;
     text-align: center;
-    padding: 10px; 
+    padding: 10px;
 }
 .header a:hover {
     background-color: #ddd;
@@ -22,3 +29,16 @@ header {
   .header-right {
     float: right;
   }
+  /*-----------------------------------------------------*/
+  /*----------------Main element styles------------------*/
+  /*-----------------------------------------------------*/
+main {
+  width: 80%;
+  margin: 0 auto;
+  border: 2px solid red;
+  margin-top: 20px;
+}
+
+/*-----------------------------------------------------*/
+/*----------------imput element styles-----------------*/
+/*-----------------------------------------------------*/
